@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Intervention\\Image\\": "src/dib258/Image"
+            "Intervention\\Image\\": "src/Intervention/Image"
         }
     },
     "extra": {
